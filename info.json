@@ -1,0 +1,56 @@
+{
+    "name": "sOCOverviewSankey",
+    "version": "1.0.0",
+    "fsrMinCompatibility": "7.4.1",
+    "type": "solutionpack",
+    "local": true,
+    "label": "SOC Overview Sankey",
+    "dependencies": [
+        {
+            "name": "sOARFramework",
+            "type": "solutionpack",
+            "label": "SOAR Framework",
+            "minVersion": null
+        },
+        {
+            "name": "socSimulator",
+            "type": "solutionpack",
+            "label": "SOC Simulator",
+            "minVersion": null
+        }
+    ],
+    "prerequisite": "",
+    "publisher": "Fortinet",
+    "description": "Solution pack to showcase the usage of the 'SOC Overview Sankey' widget",
+    "help": "https://github.com/fortinet-fortisoar/solution-pack-soc-overview-sankey/blob/release/1.0.0/README.md",
+    "category": [],
+    "supportInfo": "",
+    "iconLarge": null,
+    "postInstallConfig": null,
+    "date": "2024-03-19T07:39:56+00:00",
+    "contents": {
+        "playbooks": [
+            {
+                "name": "02 - Use Case - SOC Overview Sankey"
+            }
+        ],
+        "dashboards": [
+            {
+                "name": "SOC Overview Sankey Dashboard"
+            }
+        ],
+        "widgets": [
+            {
+                "apiName": "socOverviewSankey",
+                "name": "SOC Overview Sankey"
+            }
+        ],
+        "recordSets": [
+            {
+                "name": "Scenario",
+                "apiName": "scenario",
+                "count": 1
+            }
+        ]
+    }
+}
