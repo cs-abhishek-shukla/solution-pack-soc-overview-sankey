@@ -1,0 +1,27 @@
+[
+    {
+        "@type": "Scenario",
+        "configuration": null,
+        "title": "SOC Overview Sankey",
+        "description": "Create sample data to demonstrate how the 'SOC Overview Sankey' widget is used.",
+        "steps": {
+            "Steps": [
+                {
+                    "name": "SOC Overview Sankey",
+                    "type": "executePlaybook",
+                    "playbookIRI": "\/api\/3\/workflows\/e7bd32ac-9d31-4ab8-bc41-b85b3e14feca",
+                    "preCreateMessage": "Creating demo alert record",
+                    "postCreateMessage": "Demo records created",
+                    "waitTimeforNextStep": "0"
+                }
+            ]
+        },
+        "createdAlertsID": null,
+        "uuid": "3e4c7491-4bf5-4a2e-940e-86f090c8d257",
+        "createUser": "\/api\/3\/people\/3451141c-bac6-467c-8d72-85e0fab569ce",
+        "createDate": 1710755312.867608,
+        "modifyUser": "\/api\/3\/people\/3451141c-bac6-467c-8d72-85e0fab569ce",
+        "modifyDate": 1710833972.632555,
+        "recordTags": []
+    }
+]
