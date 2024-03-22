@@ -33,10 +33,10 @@
                                             "targetNodeSubField": "",
                                             "targetNodeType": "picklist",
                                             "targetNodeSubType": "",
-                                            "label": "Source"
+                                            "label": "Sources"
                                         },
                                         {
-                                            "label": "Alert",
+                                            "label": "Alerts",
                                             "resource": "",
                                             "sourceNodesField": "",
                                             "targetNodeField": "type",
@@ -45,7 +45,7 @@
                                             "targetNodeSubType": "picklist"
                                         },
                                         {
-                                            "label": "Incident",
+                                            "label": "Incidents",
                                             "resource": "",
                                             "sourceNodesField": "",
                                             "targetNodeField": "incidents",
