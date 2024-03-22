@@ -5,7 +5,7 @@
 
 - Navigate to the newly created dashboard **SOC Overview Sankey Dashboard**.
 
-- The Dashboard provides an overall view of flow of data related to alerts and escalated incidents from various sources.
+- The Dashboard provides an overall view of flow of data related to various modules like alerts and escalated incidents from various sources.
 
 ## Customize
 

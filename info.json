@@ -1,7 +1,7 @@
 {
     "name": "sOCOverviewSankey",
     "version": "1.0.0",
-    "fsrMinCompatibility": "7.4.1",
+    "fsrMinCompatibility": "7.4.2",
     "type": "solutionpack",
     "local": true,
     "label": "SOC Overview Sankey",
