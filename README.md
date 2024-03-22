@@ -3,15 +3,15 @@
 * **Version**: 1.0.0
 * **Certified**: No
 * **Publisher**: Fortinet
-* **Compatible Version**: FortiSOAR v7.4.1 and later
+* **Compatible Version**: FortiSOAR v7.4.2 and later
 
 # Overview
 
 The **SOC Overview Sankey** solution pack creates a dashboard using information from the SOC Overview Sankey Widget. 
 
-At a glance, you can view the overall flow of data related to alerts and escalated incidents from various sources. 
+At a glance, you can view the overall flow of data related to the various modules like alerts and escalated incidents from various sources. 
 
-Following is an example of the Dashboard with Demo records
+Following is an example of the dashboard with demo records
 
 ![SOC Overview Sankey Dashboard](./docs/res/soc_overview_sankey_dashboard.png)
 
