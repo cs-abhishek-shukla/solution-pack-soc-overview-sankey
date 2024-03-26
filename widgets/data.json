@@ -1,6 +1,7 @@
 [
     {
         "name": "socOverviewSankey",
-        "title": "SOC Overview Sankey"
+        "title": "SOC Overview Sankey",
+        "install_mode": "rpm"
     }
 ]
