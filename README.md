@@ -7,7 +7,7 @@
 
 # Overview
 
-The **Sankey Visualizer** solution pack creates a dashboard using information from the *Sankey Visualizer* Widget. 
+The **Sankey Visualizer** solution pack creates a dashboard using information from the *SOC Overview Sankey* Widget. 
 
 At a glance, you can view the overall flow of data related to the various modules like alerts and escalated incidents from various sources. 
 
