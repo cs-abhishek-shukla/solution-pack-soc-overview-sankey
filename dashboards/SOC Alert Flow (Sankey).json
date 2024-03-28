@@ -2,7 +2,7 @@
     "@context": "\/api\/3\/contexts\/Dashboard",
     "@type": "Dashboard",
     "uuid": "a65f5c0c-8730-49d3-817a-4ddc8301eb7e",
-    "displayName": "SOC Overview Sankey Dashboard",
+    "displayName": "SOC Alert Flow (Sankey)",
     "type": "rows",
     "templateType": "dashboard",
     "roles": [
@@ -65,19 +65,19 @@
                                     "buttons": [
                                         {
                                             "id": "btn-6m",
-                                            "text": "Last 6 Months",
+                                            "text": "BUTTON_LAST_6_MONTHS",
                                             "active": true,
                                             "type": "submit"
                                         },
                                         {
                                             "id": "btn-3m",
-                                            "text": "Last 3 Months",
+                                            "text": "BUTTON_LAST_3_MONTHS",
                                             "active": false,
                                             "type": "submit"
                                         },
                                         {
                                             "id": "btn-30d",
-                                            "text": "Last 30 Days",
+                                            "text": "BUTTON_LAST_30_DAYS",
                                             "active": false,
                                             "type": "submit"
                                         }

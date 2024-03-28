@@ -13,13 +13,13 @@
 
 | Dashboard Name           | Description                                           |
 |:-------------------------|:------------------------------------------------------|
-| SOC Overview Sankey Dashboard | The Dashboard has the SOC Overview Sankey widget |
+| SOC Alert Flow (Sankey) | The Dashboard has the SOC Overview Sankey widget |
 
 ## Record Set
 
 | Scenario            | Description                                                                                               |
 |:--------------------|:----------------------------------------------------------------------------------------------------------|
-| SOC Overview Sankey | A simulation that generates demo alerts and incidents for various sources such as FortiSIEM, FortiNDR etc |
+| Sankey Visualizer | A simulation that generates demo alerts and incidents for various sources such as FortiSIEM, FortiNDR etc |
 
 | [Installation](./setup.md#installation) | [Configuration](./setup.md#configuration) | [Usage](./usage.md) |
 |---------------------------------------- |------------------------------------------ |-------------------- |
