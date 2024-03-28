@@ -4,7 +4,7 @@
     "fsrMinCompatibility": "7.4.2",
     "type": "solutionpack",
     "local": true,
-    "label": "SOC Overview Sankey",
+    "label": "Sankey Visualizer",
     "dependencies": [
         {
             "name": "sOARFramework",
@@ -26,19 +26,19 @@
     "category": [
         "Security Posture Management"
     ],
-    "supportInfo": "",
+    "supportInfo": null,
     "iconLarge": null,
     "postInstallConfig": null,
-    "date": "2024-03-19T07:39:56+00:00",
+    "date": "2024-03-28T15:33:24+00:00",
     "contents": {
         "playbooks": [
             {
-                "name": "02 - Use Case - SOC Overview Sankey"
+                "name": "02 - Use Case - Sankey Visualizer"
             }
         ],
         "dashboards": [
             {
-                "name": "SOC Overview Sankey Dashboard"
+                "name": "SOC Alert Flow (Sankey)"
             }
         ],
         "widgets": [
